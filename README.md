@@ -1,4 +1,5 @@
-Expected API Response (GET /)
+# Expected API Response (GET /)
+#
 {
   "dramas": [
     {
